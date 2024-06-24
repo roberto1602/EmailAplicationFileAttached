@@ -1,0 +1,17 @@
+C:\02-BACKEND\EmailAplicationFileAttached\Business\bin\Debug\net8.0\Business.deps.json
+C:\02-BACKEND\EmailAplicationFileAttached\Business\bin\Debug\net8.0\Business.dll
+C:\02-BACKEND\EmailAplicationFileAttached\Business\bin\Debug\net8.0\Business.pdb
+C:\02-BACKEND\EmailAplicationFileAttached\Business\bin\Debug\net8.0\DataRepository.dll
+C:\02-BACKEND\EmailAplicationFileAttached\Business\bin\Debug\net8.0\Entities.dll
+C:\02-BACKEND\EmailAplicationFileAttached\Business\bin\Debug\net8.0\DataRepository.pdb
+C:\02-BACKEND\EmailAplicationFileAttached\Business\bin\Debug\net8.0\Entities.pdb
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\Business.dll
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\refint\Business.dll
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\Business.pdb
+C:\02-BACKEND\EmailAplicationFileAttached\Business\obj\Debug\net8.0\ref\Business.dll
