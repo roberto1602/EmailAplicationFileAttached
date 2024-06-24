@@ -1,0 +1,6 @@
+@EmailAplicationFileAttached_HostAddress = http://localhost:5252
+
+GET {{EmailAplicationFileAttached_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

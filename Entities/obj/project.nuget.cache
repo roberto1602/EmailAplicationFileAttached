@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vaNQSCAq+jEsKSrYUt0d7SVl813nN2TRfWjqIHJy/x4+Y+Lsz/kpYW//KtK8dooXFFNs6EooQCtV/BcPsGWgWw==",
+  "success": true,
+  "projectFilePath": "C:\\02-BACKEND\\EmailAplicationFileAttached\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robim\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
